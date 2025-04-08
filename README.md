@@ -33,13 +33,19 @@ O objetivo deste sistema é:
 - **Armazenamento de Documentos**: Upload e organização de documentos e arquivos.
 - **Notificações**: Envio de lembretes sobre compromissos e tarefas agendadas.
 
+## Documentos do Projeto
+
+- [Mapa de Persona]([./docs/mapa_persona.pdf](https://www.canva.com/design/DAGkCzsCKI0/BAHaJDg7r_XSVGkzt3ZItA/edit?utm_content=DAGkCzsCKI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- [Cronograma de Atividades](./docs/cronograma.pdf)
+- [Protótipo da Interface](./docs/prototipo.png)
+
+
 ## Equipe de Desenvolvimento
 
 | Integrante       | Função                                                                 |
 |------------------|------------------------------------------------------------------------|
 | Juliana Martins  | Analista de requisitos, Designer de Interface e prototipagem do sistema e Desenvolvedora Front-End e Testador e responsável pela validação de funcionalidades |
 | Maria Luiza      | Gerente de Projeto, Analista de requisitos,Desenvolvedor Back-End e responsável pela lógica de agendamento e Testador e responsável pela validação de funcionalidades       |
-
 
 
 

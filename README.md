@@ -35,9 +35,7 @@ O objetivo deste sistema é:
 
 ## Documentos do Projeto
 
-- [Mapa de Persona]([./docs/mapa_persona.pdf](https://www.canva.com/design/DAGkCzsCKI0/BAHaJDg7r_XSVGkzt3ZItA/edit?utm_content=DAGkCzsCKI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-- [Cronograma de Atividades](./docs/cronograma.pdf)
-- [Protótipo da Interface](./docs/prototipo.png)
+- [Mapa de Persona](https://www.canva.com/design/DAGkCzsCKI0/BAHaJDg7r_XSVGkzt3ZItA/edit?utm_content=DAGkCzsCKI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Equipe de Desenvolvimento

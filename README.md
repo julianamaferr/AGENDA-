@@ -33,5 +33,25 @@ O objetivo deste sistema é:
 - **Armazenamento de Documentos**: Upload e organização de documentos e arquivos.
 - **Notificações**: Envio de lembretes sobre compromissos e tarefas agendadas.
 
+## Equipe de Desenvolvimento
+
+| Integrante       | Função                                                                 |
+|------------------|------------------------------------------------------------------------|
+| Juliana Martins  | Analista de requisitos, Designer de Interface e prototipagem do sistema e Desenvolvedora Front-End e Testador e responsável pela validação de funcionalidades |
+| Maria Luiza      | Gerente de Projeto, Analista de requisitos,Desenvolvedor Back-End e responsável pela lógica de agendamento e Testador e responsável pela validação de funcionalidades       |
+
+
+
+
+## Cronograma de Atividades
+| Etapa                    | Data Inicial  | Data Final    | Responsável |
+|--------------------------|---------------|---------------|-------------|
+| Planejamento e Definição | 10/02/2024    | 17/04/2025    | Juliana e Maria Luiza      |
+| Desenvolvimento          | 20/06/2024    | --/--/2025    |Juliana e Maria Luiza       |
+| Testes e Validação       | --/--/2025    | --/--/2025    |Juliana e Maria Luiza      |
+| Finalização e Apresentação | --/--/2025  | --/--/2025    |Juliana e Maria Luiza   |
+
+                                                       
+
 
    

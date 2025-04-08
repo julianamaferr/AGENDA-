@@ -22,10 +22,10 @@ O objetivo deste sistema é:
 | **Quando?**   | A primeira versão será lançada até outubro de 2025.                                                           |
 
 ## Tecnologias Utilizadas
-- **Linguagens de Programação**: HTML, CSS, JavaScript
-- **Frameworks**: Node.js
-- **Banco de Dados**: MySQL
-- **Ferramentas**:Git/GitHub
+- **Linguagens de Programação**:
+- **Frameworks**: 
+- **Banco de Dados**: 
+- **Ferramentas**:
 
 ## Requisitos Funcionais
 - **Autenticação de Usuários**: Sistema de login e registro para diferentes níveis de acesso.

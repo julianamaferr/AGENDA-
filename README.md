@@ -35,7 +35,7 @@ O objetivo deste sistema é:
 
 ## Documentos do Projeto
 - [Mapa de Persona](https://www.canva.com/design/DAGkDC8dxVU/L9Qt_DK2RBim2wlQ-YTPgw/edit?utm_content=DAGkDC8dxVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- [DESIGN THINKING](https://www.canva.com/design/DAGiFfq5ODo/YyBUHJKX1UYDetRk8CKI-g/edit?utm_content=DAGiFfq5ODo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Equipe de Desenvolvimento
 

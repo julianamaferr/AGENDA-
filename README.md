@@ -1,6 +1,5 @@
 # AGENDAMAIS
-# Sistema de Agendamento e Gestão de Documentos
-
+# Sistema de Agendamento 
 ## Descrição
 Trata-se de um sistema de agendamento desenvolvido para diversos setores. O sistema tem como objetivo principal auxiliar na organização das agendas dos usuários, permitindo também o armazenamento de documentos e outros recursos que facilitam as tarefas diárias, promovendo maior eficiência no ambiente corporativo e pessoal.
 
